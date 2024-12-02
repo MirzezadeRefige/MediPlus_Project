@@ -5,7 +5,7 @@ namespace MediPlus_DAL.Contexts
 {
     public class MediPlusDbContext :DbContext
     {
-        DbSet<SliderItem> SliderItems { get; set; }
+     public   DbSet<SliderItem> SliderItems { get; set; }
         public MediPlusDbContext(DbContextOptions<MediPlusDbContext> options)
        : base(options)
         {

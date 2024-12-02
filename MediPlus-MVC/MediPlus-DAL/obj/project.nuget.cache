@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bYOnFUM7ZUU=",
+  "dgSpecHash": "GC5OH5Y7tbg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\MediPlus-MVC\\MediPlus-DAL\\MediPlus-DAL.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\MediPlus_Project\\MediPlus-MVC\\MediPlus-DAL\\MediPlus-DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

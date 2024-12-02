@@ -1,38 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus-mvc\\mediplus-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|solutionrelative:mediplus-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus_project\\mediplus-mvc\\mediplus-mvc\\areas\\mediplusadmin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|solutionrelative:mediplus-mvc\\areas\\mediplusadmin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus-mvc\\mediplus-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|solutionrelative:mediplus-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus_project\\mediplus-mvc\\mediplus-mvc\\areas\\mediplusadmin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|solutionrelative:mediplus-mvc\\areas\\mediplusadmin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus-mvc\\mediplus-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus_project\\mediplus-mvc\\mediplus-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|solutionrelative:mediplus-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus-mvc\\mediplus-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|solutionrelative:mediplus-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus_project\\mediplus-mvc\\mediplus-mvc\\areas\\mediplusadmin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|solutionrelative:mediplus-mvc\\areas\\mediplusadmin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91716F1-BBFF-40DA-A5ED-B88AD7AEB7A5}|MediPlus-DAL\\MediPlus-DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus-mvc\\mediplus-dal\\contexts\\mediplusdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus_project\\mediplus-mvc\\mediplus-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|solutionrelative:mediplus-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus_project\\mediplus-mvc\\mediplus-mvc\\areas\\mediplusadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|solutionrelative:mediplus-mvc\\areas\\mediplusadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus_project\\mediplus-mvc\\mediplus-mvc\\areas\\mediplusadmin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|solutionrelative:mediplus-mvc\\areas\\mediplusadmin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91716F1-BBFF-40DA-A5ED-B88AD7AEB7A5}|MediPlus-DAL\\MediPlus-DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus_project\\mediplus-mvc\\mediplus-dal\\contexts\\mediplusdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D91716F1-BBFF-40DA-A5ED-B88AD7AEB7A5}|MediPlus-DAL\\MediPlus-DAL.csproj|solutionrelative:mediplus-dal\\contexts\\mediplusdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D91716F1-BBFF-40DA-A5ED-B88AD7AEB7A5}|MediPlus-DAL\\MediPlus-DAL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus-mvc\\mediplus-dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91716F1-BBFF-40DA-A5ED-B88AD7AEB7A5}|MediPlus-DAL\\MediPlus-DAL.csproj|solutionrelative:mediplus-dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCE368F7-9C7C-4D74-91B0-00134A9E6635}|MediPlus-BL\\MediPlus-BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus_project\\mediplus-mvc\\mediplus-bl\\mediplus-bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCE368F7-9C7C-4D74-91B0-00134A9E6635}|MediPlus-BL\\MediPlus-BL.csproj|solutionrelative:mediplus-bl\\mediplus-bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus-mvc\\mediplus-mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|solutionrelative:mediplus-mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus-mvc\\mediplus-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|solutionrelative:mediplus-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\mediplus_project\\mediplus-mvc\\mediplus-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C373932-4764-494B-A854-6BD5C343C1CC}|MediPlus-MVC\\MediPlus-MVC.csproj|solutionrelative:mediplus-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,105 +54,124 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MediPlus-MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MediPlus-MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T18:21:26.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAAAO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:44:23.992Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MediPlus-MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MediPlus-MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAFgBAAAAAAAAAAAAAPcCAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T15:45:33.122Z",
+              "WhenOpened": "2024-12-02T17:40:16.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Areas\\MediPlusAdmin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MediPlus-MVC\\Areas\\MediPlusAdmin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Areas\\MediPlusAdmin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MediPlus-MVC\\Areas\\MediPlusAdmin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:32:29.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-MVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "MediPlus-MVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-MVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "MediPlus-MVC\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T15:41:07.854Z"
+              "WhenOpened": "2024-12-02T17:46:46.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-MVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MediPlus-MVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-MVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MediPlus-MVC\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MediPlus-MVC\\Areas\\MediPlusAdmin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T15:40:39.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MediPlus-MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MediPlus-MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T14:55:03.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T17:46:30.759Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-MVC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Program.cs",
               "RelativeDocumentMoniker": "MediPlus-MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Program.cs",
               "RelativeToolTip": "MediPlus-MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:47:24.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T14:47:24.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MediPlusDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-DAL\\Contexts\\MediPlusDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-DAL\\Contexts\\MediPlusDbContext.cs",
               "RelativeDocumentMoniker": "MediPlus-DAL\\Contexts\\MediPlusDbContext.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-DAL\\Contexts\\MediPlusDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-DAL\\Contexts\\MediPlusDbContext.cs",
               "RelativeToolTip": "MediPlus-DAL\\Contexts\\MediPlusDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:46:02.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T17:31:13.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MediPlus-MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MediPlus-MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:45:09.286Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "MediPlus-BL.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-BL\\MediPlus-BL.csproj",
+              "RelativeDocumentMoniker": "MediPlus-BL\\MediPlus-BL.csproj",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-BL\\MediPlus-BL.csproj",
+              "RelativeToolTip": "MediPlus-BL\\MediPlus-BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T18:11:43.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-DAL\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "MediPlus-DAL\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus-MVC\\MediPlus-DAL\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "MediPlus-DAL\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:20:19.062Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MediPlus-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\MediPlus_Project\\MediPlus-MVC\\MediPlus-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MediPlus-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T17:46:59.307Z"
             }
           ]
         }

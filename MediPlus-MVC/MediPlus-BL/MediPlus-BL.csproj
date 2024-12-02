@@ -16,4 +16,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\Abstractions\" />
+    <Folder Include="Services\Concretes\" />
+  </ItemGroup>
+
 </Project>

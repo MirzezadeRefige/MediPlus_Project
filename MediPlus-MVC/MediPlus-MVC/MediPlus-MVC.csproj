@@ -21,4 +21,9 @@
     <ProjectReference Include="..\MediPlus-DAL\MediPlus-DAL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\MediPlusAdmin\Data\" />
+    <Folder Include="Areas\MediPlusAdmin\Models\" />
+  </ItemGroup>
+
 </Project>

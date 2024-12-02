@@ -1,12 +1,23 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using MediPlus_DAL.Contexts;
+using MediPlus_DAL.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace MediPlus_MVC.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        private readonly MediPlusDbContext _context;
+
+		public HomeController(MediPlusDbContext context)
+		{
+			_context=context;
+		}
+
+		public IActionResult Index()
         {
-            return View();
+			List<SliderItem> data = _context.SliderItems.ToList();
+
+			return View(data);
         }
     }
 }
