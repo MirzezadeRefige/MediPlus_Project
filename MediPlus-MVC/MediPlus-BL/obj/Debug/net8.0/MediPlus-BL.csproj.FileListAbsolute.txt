@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\bin\Debug\net8.0\MediPlus-BL.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\bin\Debug\net8.0\MediPlus-BL.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\bin\Debug\net8.0\MediPlus-BL.dll
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\bin\Debug\net8.0\MediPlus-BL.pdb
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\obj\Debug\net8.0\MediPlus-BL.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\obj\Debug\net8.0\MediPlus-BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\obj\Debug\net8.0\MediPlus-BL.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\obj\Debug\net8.0\MediPlus-BL.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\obj\Debug\net8.0\MediPlus-BL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\obj\Debug\net8.0\MediPlus-BL.dll
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\obj\Debug\net8.0\refint\MediPlus-BL.dll
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\obj\Debug\net8.0\MediPlus-BL.pdb
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\obj\Debug\net8.0\MediPlus-BL.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\MediPlus-MVC\MediPlus-BL\obj\Debug\net8.0\ref\MediPlus-BL.dll
